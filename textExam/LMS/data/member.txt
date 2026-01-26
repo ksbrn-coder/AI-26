@@ -1,0 +1,3 @@
+kkw|1234|김기원|manager|True
+elex4236|12345|김사비|admin|False
+elex42362|1234|김사브리나01|user|False
